@@ -3,11 +3,11 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Diary Of A Madman",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -24,9 +24,9 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          dark: "#a7d6b4",
+          secondary: "#2aa869",
+          tertiary: "#144f22",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -34,9 +34,9 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          dark: "#a7d6b4",
+          secondary: "#2aa869",
+          tertiary: "#144f22",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
