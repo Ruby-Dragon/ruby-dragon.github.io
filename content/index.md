@@ -1,5 +1,5 @@
 ---
-title: Ruby Dragon's Diary of A Madman
+title: Diary of A Madman
 ---
 
 Welcome to my notes!
