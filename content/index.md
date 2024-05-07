@@ -1,5 +1,6 @@
 ---
 title: Ruby's Notes
+tags: []
 ---
 
 Welcome to my notes!
