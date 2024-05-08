@@ -8,8 +8,8 @@ tags:
 ---
 By Ruby-Dragon
 
+Source code: https://github.com/Ruby-Dragon/FFTGrassAnimation
 # Introduction
-
 
 $\quad$Foliage is quite a common sight in video games. Noteworthy games to employ dense foliage throughout the past couple of decades include *The Legend of Zelda: Breath Of The Wild* (2017), *The Witcher 3: Wild Hunt* (2015), and *Crysis* (2007). Large forests and fields depicted in these titles benefit greatly from the well made 3D models are textures used. Unfortunately, these high quality assets can be let down by the imprecise animation methods used.
 
