@@ -7,7 +7,7 @@ tags:
   - GameDevelopment
 ---
 # It Begins!
-Acerola Jam 0 ran from February 28th to March 14th. The (most important of the) rules: all submissions must be done solo and no AI. The theme: aberration. 
+Acerola Jam 0 ran from February 28th to March 14th, 2024. The (most important of the) rules: all submissions must be done solo and no AI. The theme: aberration. 
 
 My idea for this jam was to make a 3D, first person minesweeper, where the player needed to use a metal detector in order to find mines in a given area. This related to the theme because an aberration is, according to the jam page itself: "a departure from what is normal, usual, or expected, typically one that is unwelcome", which I feel suits getting your legs blown off by a mine quite well.
 
