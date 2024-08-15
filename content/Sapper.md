@@ -1,6 +1,6 @@
 ---
 title: "Sapper: Acerola Jam 0 Entry"
-draft: true
+draft: false
 tags:
   - ComputerScience
   - Godot
@@ -12,13 +12,13 @@ Acerola Jam 0 ran from February 28th to March 14th. The (most important of the) 
 My idea for this jam was to make a 3D, first person minesweeper, where the player needed to use a metal detector in order to find mines in a given area. This related to the theme because an aberration is, according to the jam page itself: "a departure from what is normal, usual, or expected, typically one that is unwelcome", which I feel suits getting your legs blown off by a mine quite well.
 
 I chose Godot 4.2, of course, as the engine as I know how to use it and it is pretty fast. I planned to include the following features:
-- WASD movement with mouse look (no jumping!)
+- WASD movement with mouse look (no jumping! That would be too easy to play!)
 - mines that would kill player if walked on
 - metal detector that would light up if a mine was under it
 - ability to flag a mine
 - van used to exit level after player is confident that all mines have been flagged
 - grading system used to evaluate how well the player did
-- retying a level after death
+- retrying a level after death
 
 I decided to tackle these features in that order in order to make sure that I always had the most playable version of my game at any given time. This would give me time to adapt if a feature didn't work, or if my game design was too boring.
 
@@ -45,6 +45,7 @@ Plugins are nice, but do not rely on them too much. Trying to bend other peoples
 Raytracing is the future. Maybe not yet, maybe not next year, but one day (hopefully soon) raytracing will be the new normal for global illumination and reflections and game developers everywhere will be free from carefully placing reflection probes and fixing broken lightmaps. And since Godot is open source, that day will be as soon as I figure out how to do that.
 
 # What To Learn Next
-I still have not made a game that allows the player to save their game. I know enough to be able to do this, I just haven't because it seems very tedious and like it would take a long time. Making a game with this feature is definitely something I should explore in the future.
+I still have not made a game that allows the player to save their game. I know enough to be able to do this, I just haven't because... honestly I don't know. Making a game with this feature is definitely something I should explore in the future.
 
 Since a lot of the issues I am having have to do with graphics, I should probably learn how to fix them myself. Writing graphics stuff seems like a nice goal, but not very specific. When I come up with a "graphics thing" that seems like a good exercise for me to try, I will be sure to do that.
+
