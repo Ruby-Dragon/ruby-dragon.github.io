@@ -1,6 +1,6 @@
 ---
 title: Real Time Foliage Wind Animation Using The Fast Fourier Transform
-draft: true
+draft: false
 tags:
   - GraphicsProgramming
   - Godot
@@ -13,7 +13,7 @@ Source code: https://github.com/Ruby-Dragon/FFTGrassAnimation
 
 $\quad$Foliage is quite a common sight in video games. Noteworthy games to employ dense foliage throughout the past couple of decades include *The Legend of Zelda: Breath Of The Wild* (2017), *The Witcher 3: Wild Hunt* (2015), and *Crysis* (2007). Large forests and fields depicted in these titles benefit greatly from the well made 3D models are textures used. Unfortunately, these high quality assets can be let down by the imprecise animation methods used.
 
- $\quad$Animations are noticeably repetitive in games today, feeling unnatural and degrading the contribution of the foliage to the visuals of the scene. While playing through games such as those mentioned earlier, I noticed the strangeness of the foliage animation. This repetition took the form of both foliage moving identically in different locations on screen and of individual foliage objects repeating the same motions infinitely with little or no variation. Once I noticed this flaw, I could not help but see this unnatural look throughout many of the games that I played, which negatively impacted my perception of the overall graphics quality. Solving this issue seemed like a good way to improve the graphics quality of video games. My goal for this paper was to determine a better method for animating foliage to avoid that unnatural repetitiveness. I decided to start by determining a better method for animating grass, as the physics involved in the motion are fairly simple - at least compared to more complex objects such as trees or bushes.
+ $\quad$ Foliage Animations are noticeably repetitive in games today, feeling unnatural and degrading the contribution of the foliage to the visuals of the scene. While playing through games such as those mentioned earlier, I noticed the strangeness of the foliage animation. This repetition took the form of both foliage moving identically in different locations on screen and of individual foliage objects repeating the same motions infinitely with little or no variation. Once I noticed this flaw, I could not help but see this unnatural look throughout many of the games that I played, which negatively impacted my perception of the overall graphics quality. Solving this issue seemed like a good way to improve the graphics quality of video games. My goal for this paper was to determine a better method for animating foliage to avoid that unnatural repetitiveness. I decided to start by determining a better method for animating grass, as the physics involved in the motion are fairly simple - at least compared to more complex objects such as trees or bushes.
 
 # Literature Review
 
